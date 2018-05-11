@@ -42,7 +42,7 @@
 		<Unit filename="handl.h" />
 		<Unit filename="score.cpp" />
 		<Unit filename="score.h" />
-		<Unit filename="test_game.cpp" />
+		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
