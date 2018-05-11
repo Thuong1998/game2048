@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1526021347 source:c:\users\admin\documents\2048\console.cpp
+	<windows.h>
+
+1526028346 source:c:\users\admin\documents\2048\control.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	"handl.h"
+	"display.h"
+	"console.h"
+
+1526021348 c:\users\admin\documents\2048\handl.h
+
+1526021348 c:\users\admin\documents\2048\display.h
+
+1526021347 c:\users\admin\documents\2048\console.h
+
+1526028756 source:c:\users\admin\documents\2048\display.cpp
+	<windows.h>
+	<iostream>
+	"score.h"
+	"console.h"
+
+1526021348 c:\users\admin\documents\2048\score.h
+
+1526021348 source:c:\users\admin\documents\2048\handl.cpp
+	<fstream>
+
+1526021348 source:c:\users\admin\documents\2048\score.cpp
+	<fstream>
+
+1526031548 source:c:\users\admin\documents\2048\test_game.cpp
+	"console.h"
+	"control.h"
+	"display.h"
+	"handl.h"
+	"score.h"
+
+1526021347 c:\users\admin\documents\2048\control.h
+
